@@ -33,6 +33,7 @@
     "base64url": "^2.0.0",
     "bootstrap": "^3.3.7",
     "chalk": "^2.1.0",
+    "conventional-changelog-ovh": "^1.0.2",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.1",
     "eslint-config-ovh": "^0.1.1",
