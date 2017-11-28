@@ -256,6 +256,8 @@ angular.module("App").controller("HostingModuleCreateCtrl", ($scope, $q, $stateP
                     $scope.resetAction();
                 });
         }
+
+        return null;
     });
 
     $scope.isStep3Valid = function () {
